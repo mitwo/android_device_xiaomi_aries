@@ -1,2 +1,5 @@
 rild.libpath=/system/lib/libril-qc-qmi-1.so
 rild.libargs=-d /dev/smd0
+
+# Telephony property for fix cdma
+ro.telephony.default_network=10
