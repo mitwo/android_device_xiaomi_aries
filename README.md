@@ -1,4 +1,4 @@
-Mokee device tree for aries (MK51.1)
+Cyanogenmod device tree for aries (CM12.1)
 
 
 
